@@ -25,7 +25,7 @@ SECRET_KEY = 'ps5x%a&h@76--4ydi!_9^2@f0k1h58i_69*7@a0lhx)a635)36'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['syamsruthin-kaliki.eu-west-3.elasticbeanstalk.com','syamsruthinkaliki.herokuapp.com','127.0.0.1','localhost','0.0.0.0']
+ALLOWED_HOSTS = ['172.31.18.69','syamsruthin-kaliki.eu-west-3.elasticbeanstalk.com','syamsruthinkaliki.herokuapp.com','127.0.0.1','localhost','0.0.0.0']
 
 
 # Application definition
